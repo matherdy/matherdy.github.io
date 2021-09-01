@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Web Excerise 1
 
-You can use the [editor on GitHub](https://github.com/matherdy/matherdy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Heart Disease Data Set
+- _url_: http://archive.ics.uci.edu/ml/datasets/Heart+Disease 
+- This UCI dataset about heart disease is one of the most used on their machine learning repository archive.  This dataset stood out to me because heart disease runs in my family so learning about what attributes suggest a patient has heart disease is useful. The data set contains 76 different attributes, however only 14 of them are commonly used in published experiments according to UCI's website.  In addition to being able to diagnose heart disease in patients, this data set, along with additional data, can show how someone can take preventative measures to reduce their chance of contracting this illness.  I would be interested to see if further conclusions can be drawn from this data when using more of the attributes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matherdy/matherdy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Deep Learning
+### Ian Goodfellow and Yoshua Bengio and Aaron Courville
+__An MIT Press Book__
+_url:_ https://www.deeplearningbook.org/
+- This book caught my eye because in my undergraduate education I learned a lot about machine learning and being able to train models to predict outcomes. Since deep learning is one of the most powerful machine learning models that data scientists have created, it feels like the next right step to continue my journey becoming a data scientist.  
